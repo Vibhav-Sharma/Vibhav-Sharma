@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vibhav-Sharma
 - 👀 I’m interested in Problem Solving, Coding
 - 🌱 I’m currently learning Flutter, Web Development, C++
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on gg projects.
 - 📫 How to reach me vibhav.sharma2335@gmail.com 
 
 <!---
