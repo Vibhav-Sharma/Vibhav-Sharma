@@ -9,7 +9,7 @@
 
 ### 🔥 **About Me**
 - 👀 Passionate about **Problem Solving, Competitive Programming, and Web Development**  
-- 🧑‍💻 Coding in **Python, C, C++, Java, JavaScript, SQL**  
+- 🧑‍💻 Coding in **Python, C, C++, Java, JavaScript, Flutter, SQL**  
 - 🌱 Currently learning **Web Development, Flutter, and Figma**  
 - 🤖 Building **AI-powered projects & ML applications**  
 - 📡 Enthusiastic about **Cyber-Physical Systems & IoT with AI**  
