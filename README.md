@@ -165,7 +165,7 @@ vibhav = {
 ## 🏆 &nbsp;Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vibhav-Sharma&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Vibhav-Sharma&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" />
 </div>
 
 ---
@@ -173,18 +173,20 @@ vibhav = {
 ## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vibhav-Sharma/Vibhav-Sharma/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vibhav-Sharma/Vibhav-Sharma/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Vibhav-Sharma/Vibhav-Sharma/output/github-snake-dark.svg" />
-  </picture>
+
+![snake animation](https://github.com/Vibhav-Sharma/Vibhav-Sharma/blob/output/github-snake-dark.svg)
+
 </div>
 
 <details>
-<summary>⚙️ &nbsp;<b>One-time snake setup (2 min)</b></summary>
+<summary>⚙️ &nbsp;<b>Snake not showing? Run this one-time setup (2 min)</b></summary>
 <br>
 
-Create `.github/workflows/snake.yml` in your **`Vibhav-Sharma`** profile repo:
+> The snake image above only works **after** you run the GitHub Action below once. Until then it'll show broken — that's normal.
+
+**Step 1** — Make sure your profile repo is named exactly `Vibhav-Sharma`
+
+**Step 2** — Create `.github/workflows/snake.yml` with this content:
 
 ```yaml
 name: Snake Animation
@@ -220,9 +222,7 @@ jobs:
           commit_message: "Update snake animation [skip ci]"
 ```
 
-Then: **Actions tab → Run workflow manually** → done ✅
-
-> **Why it was broken before:** The old workflow used `crazy-max/ghaction-github-pages` which is deprecated and fails silently. `peaceiris/actions-gh-pages@v3` is the correct one.
+**Step 3** — Go to **Actions tab → Snake Animation → Run workflow** → wait ~30s → done ✅
 
 </details>
 
